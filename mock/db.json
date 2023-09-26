@@ -1,0 +1,11 @@
+{
+    "corporates": [
+        {
+            "id": 1,
+            "title": "One corporate",
+            "description": "This is a test",
+            "date": "02-09-2023",
+            "price": 2000
+        }
+    ]
+}
